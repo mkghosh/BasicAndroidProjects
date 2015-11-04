@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prime Cheker</string>
+    <string name="action_settings">Settings</string>
+    <string name="the_range">Enter The Range.</string>
+</resources>
